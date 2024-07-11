@@ -4,3 +4,5 @@ logs/
 dags/__pycache__/
 
 *.ppk
+
+.idea/
